@@ -110,7 +110,7 @@ wildfire-risk-analysis/
 │   ├── 03_species_habitat_assessment.ipynb         # Species distribution & habitat condition (GBIF + NDVI)
 │   └── 04_temporal_species_recovery_analysis.ipynb # Post-fire vegetation & species habitat recovery
 │
-├── reports/
+├── docs/
 │   ├── final_report.pdf                    # Complete project report
 │   ├── forest_fire_final_presentation.pdf  # Final presentation (maps, plots & results)
 │   ├── forest_fire_midterm_evaluation.pdf  # Midterm progress evaluation report
