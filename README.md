@@ -5,6 +5,15 @@
 This project analyzes forest disturbance and recovery dynamics in the **Alluri Sitaram Raju (ASR) district** of Andhra Pradesh, India — a biodiversity-rich region in the Eastern Ghats with approximately 64% forest cover (~7,838 km²). Using multi-temporal satellite remote sensing data spanning **2018–2024**, the study maps wildfire occurrence, assesses burn severity, models wildfire risk, and evaluates post-fire vegetation recovery patterns. The project also examines the ecological impact of recurring disturbances on threatened and near-threatened species habitats within the district.
 
 ---
+## Highlights
+
+- Analyzed wildfire activity from 2018–2024 using MODIS, Landsat, ERA5, and FIRMS datasets
+- Built AHP-based wildfire risk model using environmental and anthropogenic factors
+- Identified repeat-burning hotspots affecting ~63% of study area
+- Performed biodiversity habitat recovery analysis for 31 threatened species
+- 
+
+---
 
 ## Objectives
 
