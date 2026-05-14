@@ -139,6 +139,21 @@ wildfire-risk-analysis/
 | Fig 34–38 | Annual FIRMS validation overlays on AHP risk map (2019–2023) |
 
 ---
+## Sample Results
+
+### Composite Wildfire Risk Map
+![Risk Map](images/wildfire_risk_map.png)
+
+### Burn Severity (dNBR)
+![dNBR](images/burn_severity_dnbr.png)
+
+### Environmental Driver Correlation
+![Correlation](images/correlation_analysis.png)
+
+### Fire Return Interval (FRI)
+![FRI](images/fire_return_interval.png)
+
+---
 
 ## Key Findings
 
